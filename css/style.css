@@ -12,7 +12,8 @@ html, body {
 
 .landing {
   position: relative;
-  background-image: url('../img/showcase.jpg');
+  /* background-image: url('../img/showcase.jpg'); */
+  background-image: url('../img/carbon_blue.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
